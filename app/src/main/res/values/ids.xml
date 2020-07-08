@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="card_view1" type="id" />
+    <item name="profile_details_image" type="id" />
+    <item name="decline_friend_request" type="id" />
+    <item name="name_notifications" type="id" />
+    <item name="make_call" type="id" />
+    <item name="cancel_call" type="id" />
+    <item name="profile_image_calling" type="id" />
+    <item name="name_calling" type="id" />
+    <item name="subscriber_container" type="id" />
+    <item name="search_user_text" type="id" />
+    <item name="find_friends_list" type="id" />
+</resources>
