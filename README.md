@@ -23,10 +23,10 @@
 # Find People Activity
 ![WhatsApp Image 2020-07-08 at 6 49 43 PM (2)](https://user-images.githubusercontent.com/62868878/86925460-89b26080-c14e-11ea-9ccd-82786ac97f33.jpeg)
 
-# Friend Request Accept/Decline Page
+# Friend Request Accept/Cancel Page
 ![WhatsApp Image 2020-07-08 at 6 49 43 PM (1)](https://user-images.githubusercontent.com/62868878/86925614-b8303b80-c14e-11ea-959e-b8547b402b6a.jpeg)
 
-# Video calling Activity
+# Video Calling Activity
 ![WhatsApp Image 2020-07-08 at 7 16 48 PM](https://user-images.githubusercontent.com/62868878/86926412-a733fa00-c14f-11ea-9123-3da1203bbad2.jpeg)
 
 
